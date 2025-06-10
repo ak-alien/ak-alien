@@ -7,10 +7,10 @@
 
 <p>
 <b>user@ak-alien:~$ whoami</b><br><br>
-👾 Name       : AK-ALiEN<br>
+👾 Name       : AlieN<br>
 🎯 Focus      : Offensive Security | Cyber Recon | Code Exploitation<br>
-📍 Location   : /root/Darknet/HQ<br>
-💻 Workspace  : GitHub Terminal Emulator<br>
+📍 Location   : Unknown Planet<br>
+💻 Workspace  : Terminal<br>
 🔓 Motto      : "Code is my weapon. The system is my playground."
 </p>
 
@@ -40,17 +40,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [`CookieSnatcher`](https://github.com/ak-alien/CookieSnatcher) | Extracts cookies from logs with stealth and precision. | Python |
-| [`WinDropper`](https://github.com/ak-alien/WinDropper) | Lightweight payload dropper written in C#. | C# |
-| [`OB-CustomModules`](https://github.com/ak-alien/OB-CustomModules) | Custom OpenBullet modules for red team operations. | C#, OBCE |
-| [`Recon-Toolkit`](https://github.com/ak-alien/Recon-Toolkit) | Modular recon framework for gathering OSINT intel. | Python |
-
----
-
 ## 🧙 Hack The Planet
 
 > "There is no patch for human curiosity."
@@ -72,7 +61,6 @@
 
 <p>
 📬 Contact: <a href="https://github.com/ak-alien/issues">github.com/ak-alien/issues</a><br>
-🧠 Knowledge Hub: ak-alien.github.io (soon)
 </p>
 
 <p align="center">
@@ -92,4 +80,4 @@ echo "System Compromise: 42% Complete"
   <img src="assets/terminal-hacker.gif" width="600"/>
 </p>
 
-<p align="center"><b>System breach authorized.</b> Welcome to the blacksite.</p>
+<p align="center"><b>System breach authorized.</b> Welcome to the AlieN's Planet.</p>
